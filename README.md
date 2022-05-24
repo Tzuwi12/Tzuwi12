@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning codesaya
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me ... with email
+- 📫 How to reach me ... by email
 
 <!---
 Tzuwi12/Tzuwi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
